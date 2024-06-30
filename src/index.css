@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Input Mono";
+}
+
+body {
+  background: linear-gradient(45deg, #d6d6d6, #e6e7e7);
+}
